@@ -1,0 +1,11 @@
+EmployeeNumber,LastName,FirstName,HoursWorked
+001,Bezos,Jeff,190
+002,Gates,Bill,120
+003,Zuckerberg,Mark,100
+004,Arnault,Bernard,81
+005,Ambani,Mukesh,80
+006,Ballmer,Steve,77
+007,Buffett,Warren,77
+008,Page,Larry,71
+009,Musk,Elon,70
+010,Brin,Sergey,69
